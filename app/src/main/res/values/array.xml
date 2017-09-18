@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>索尼是世界视听、电子游戏、通讯产品和信息技术等领域的先导者，是世界最早便携式数码产品的开创者，是世界最大的电子产品制造商之一、世界电子游戏业三大巨头之一、美国好莱坞六大电影公司之一。其旗下品牌有Xperia，Walkman，Sony music，哥伦比亚电影公司，PlayStation等</item>
+        <item>世界电子游戏业三大巨头之一、美国好莱坞六大电影公司之一。其旗下品牌有Xperia，Walkman，Sony music，哥伦比亚电影公司，PlayStation等</item>
+        <item>曾有vaio旗下品牌，但在2014年2月6日，索尼剥离VAIO业务，Vaio品牌将由Japan Industrial Partners Inc接手运营。</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item></item>
+        <item>北京小米科技有限责任公司成立2010年4月，是一家专注于智能硬件和电子产品研发的移动互联网公司。“为发烧而生”是小米的产品概念。小米公司首创了用互联网模式开发手机操作系统、发烧友参与开发改进的模式。</item>
+        <item>PERL</item>
+        <item>C</item>
+        <item>小米笔记本是小米公司在2016年7月27日在北京国家会议中心发布的两款笔记本叫做小米笔记本</item>
+    </string-array>
+
+    <string-array name="items">
+        <item>Normal List</item>
+        <item>Normal Grid</item>
+        <item>Normal Staggered</item>
+        <item>Multiple List</item>
+        <item>Multiple Grid</item>
+        <item>Header Bottom List</item>
+        <item>Header Bottom Grid</item>
+        <item>Anim List</item>
+        <item>Anim Grid</item>
+        <item>Expended List</item>
+        <item>Expended Grid</item>
+        <item>Single Select</item>
+        <item>Multiple Select</item>
+    </string-array>
+</resources>

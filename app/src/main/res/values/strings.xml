@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableTextView</string>
+    <string name="to_expand_hint">Expand</string>
+    <string name="to_shrink_hint">Shrink</string>
+</resources>
